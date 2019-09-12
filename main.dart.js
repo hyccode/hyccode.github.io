@@ -31845,10 +31845,10 @@ if(s!=null){u=$.al().k3
 t=u.a
 if(t!=null)u.ml(t,s,!0)}}}
 F.zV.prototype={
-U:function(a){return new S.lJ(new F.zW("Flutter Demo Home Page",null),"Flutter Web learn",X.E7(null,C.cT),null)}}
+U:function(a){return new S.lJ(new F.zW("\u9ec4\u4e9a\u51b2\u7684\u5c0f\u7ad9",null),"\u9ec4\u4e9a\u51b2\u7684\u5c0f\u7ad9",X.E7(null,C.cT),null)}}
 F.zW.prototype={
 U:function(a){var u=null,t=L.KF(this.c,u)
-return new M.jZ(new E.nV(t,new Q.an(1/0,56),u),new T.j6(C.a6,u,u,T.Q3(H.e([L.KF("Hello, World!",u)],[N.aG]),C.hE),u),u)}}
+return new M.jZ(new E.nV(t,new Q.an(1/0,56),u),new T.j6(C.a6,u,u,T.Q3(H.e([L.KF("Hello, \u674e\u8d1d!",u)],[N.aG]),C.hE),u),u)}}
 T.Jp.prototype={
 $2:function(a,b){var u,t
 H.R(a)
